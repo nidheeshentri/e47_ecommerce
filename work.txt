@@ -1,0 +1,28 @@
+Main functionalities
+1 - View all products with pagination
+    Search products, Product detail page
+2 - Register 
+3 - Login (based on user role)
+4 - Add to cart
+5 - Wishlist
+6 - Checkout
+7 - Payment
+8 - Order history
+9 - Admin panel
+    Add Product
+    Edit product
+    Delete products
+    Manage users
+    Manage Orders
+
+
+User roles
+1 - Buyers
+2 - Admin
+
+Models
+1 - products
+2 - Users 
+3 - Cart 
+4 - Orders 
+5 - Wishlist
